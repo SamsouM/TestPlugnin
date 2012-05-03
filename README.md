@@ -1,4 +1,4 @@
 TestPlugnin
 ===========
 
-plugin de test
+ceci est un plugin de test
